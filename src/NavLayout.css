@@ -1,0 +1,42 @@
+nav{
+    /* background-color: yellow; */
+    padding: 1% 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-icon{
+    width: 3.5%;
+    padding: 0.5% 0%;
+    display: flex;
+    border-radius: 2rem;
+    justify-content: center;
+    background-color: red;
+    
+}
+.fill{
+    font-size: 2rem;
+    color: white;
+   
+}
+[type="text"]{
+    width: 87%;
+    padding: 4% 2%;
+    border-radius: 1rem;
+    border: 1px solid white;
+}
+.view{
+    width:25%;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+.save{
+    position: relative;
+    right: 9%;
+    color: rgb(161, 16, 16);
+    cursor: pointer;
+    transition: font-size 0.2s;
+}
+.save:hover{
+    font-size: 1.1rem;
+}

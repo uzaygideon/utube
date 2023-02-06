@@ -1,0 +1,44 @@
+.layout-container{
+    width: 100%;
+    /* border: 1px solid red; */
+    position:sticky;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-1{
+width: 8%;
+text-align: center;
+padding: 1% 0%;
+color: white;
+transition: all 0.8s;
+text-decoration: none;
+border-radius: 1.6rem;
+background-color: red;
+}
+.link-2{
+    width: 8%;
+    text-align: center;
+    padding: 1% 0%;
+    color: white;
+    transition: all 0.8s;
+    text-decoration: none;
+    border-radius: 1.6rem;  
+}
+.Af{
+    margin-right: 8%;
+    color: white;
+    transition:  all 0.8s;
+}
+.link-2 .Af{
+color: red;
+margin-right: 8%;
+transition:  all 0.8s;
+}
+#link-1:hover .Af{
+    color: white;
+}
+#link-1:hover{
+    background-color: rgb(153, 15, 15);
+    color: white;
+}
