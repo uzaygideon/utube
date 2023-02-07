@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utube/static/css/main.3520fcc4.css",
+    "main.js": "/utube/static/js/main.8602efaf.js",
+    "static/js/787.fda2aced.chunk.js": "/utube/static/js/787.fda2aced.chunk.js",
+    "index.html": "/utube/index.html",
+    "main.3520fcc4.css.map": "/utube/static/css/main.3520fcc4.css.map",
+    "main.8602efaf.js.map": "/utube/static/js/main.8602efaf.js.map",
+    "787.fda2aced.chunk.js.map": "/utube/static/js/787.fda2aced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3520fcc4.css",
+    "static/js/main.8602efaf.js"
+  ]
+}
